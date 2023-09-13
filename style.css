@@ -1,0 +1,27 @@
+
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@500&family=Poppins&display=swap');
+</style>
+
+* {
+    margin: 0px;
+    background-color: #294336;
+    /* font-family: 'Inconsolata', monospace; */
+    font-family: 'Poppins', sans-serif;
+}
+h1 {
+    text-align: center;
+    
+}
+div {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+   
+.links p{
+    color: white;
+   
+}
+p:hover{
+    
+}
